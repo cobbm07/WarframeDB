@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MeleeWeapon
+comment1.params=n\ s\ t\ bDmg\ tD\ cC\ cM\ sD\ sC\ fR\ r\ tier
+comment1.target=MeleeWeapon(java.lang.String,\ Slot,\ Type,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ Tier)
+comment2.params=n
+comment2.target=MeleeWeapon(java.lang.String)
+numComments=3

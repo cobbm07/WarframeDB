@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DataReader
+comment1.params=
+comment1.target=java.util.Set\ readRangedData()
+comment2.params=
+comment2.target=java.util.Set\ readMeleeData()
+comment3.params=
+comment3.target=java.util.Set\ readFrameData()
+numComments=4

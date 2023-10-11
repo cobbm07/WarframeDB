@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Database
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=reader\ weapons\ frames
+comment2.target=boolean\ mainMenu(java.io.BufferedReader,\ java.util.List,\ java.util.List)
+comment3.params=reader\ weapons\ frames
+comment3.target=void\ allMenu(java.io.BufferedReader,\ java.util.List,\ java.util.List)
+comment4.params=min\ max\ reader
+comment4.target=int\ validChoice(int,\ int,\ java.io.BufferedReader)
+comment5.params=weapons\ frames
+comment5.target=void\ printAll(java.util.List,\ java.util.List)
+comment6.params=word
+comment6.target=void\ lookUpWord(java.lang.String)
+numComments=7

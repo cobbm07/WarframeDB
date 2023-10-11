@@ -1,0 +1,85 @@
+Name,Energy,Health,Shield,Sprint Speed,Armor,Abilities
+Ash,150,450,300,1.15,100,Shuriken,Smoke Screen,Teleport,Blade Storm
+Ash Prime,150,450,375,1.2,175,Shuriken,Smoke Screen,Teleport,Blade Storm
+Atlas,225,300,300,0.9,450,Landslide,Tectonics,Petrify,Rumblers
+Atlas Prime,263,525,450,1,475,Landslide,Tectonics,Petrify,Rumblers
+Banshee,225,300,300,1.1,100,Sonic Boom,Sonar,Silence,Sound Quake
+Banshee Prime,263,300,300,1.15,125,Sonic Boom,Sonar,Silence,Sound Quake
+Baruuk,300,225,300,1.2,175,Elude,Lull,Desolate Hands,Serene Storm
+Caliban,188,300,525,1.1,275,Razor Gyre,Sentient Wrath,Lethal Progeny,Fusion Strike
+Chroma,225,300,300,1,350,Spectral Scream,Elemental Ward,Vex Armor,Effigy
+Chroma Prime,300,300,300,1,425,Spectral Scream,Elemental Ward,Vex Armor,Effigy
+Ember,225,300,300,1.1,125,Fireball,Immolation,Fire Blast,Inferno
+Ember Prime,225,300,375,1.1,150,Fireball,Immolation,Fire Blast,Inferno
+Equinox,225,300,300,1.15,125,Metamorphosis,Rest & Rage,Pacify & Provoke,Mend & Maim
+Equinox Prime,248,375,300,1.15,150,Metamorphosis,Rest & Rage,Pacify & Provoke,Mend & Maim
+Excalibur,150,300,300,1,225,Slash Dash,Radial Blind,Radial Javelin,Exalted Blade
+Excalibur Prime,225,300,300,1,300,Slash Dash,Radial Blind,Radial Javelin,Exalted Blade
+Excalibur Umbra,225,300,300,1,300,Slash Dash,Radial Howl,Radial Javelin,Exalted Blade
+Frost,150,300,450,0.95,300,Freeze,Ice Wave,Snow Globe,Avalanche
+Frost Prime,150,300,525,0.95,300,Freeze,Ice Wave,Snow Globe,Avalanche
+Gara,225,300,300,1.15,150,Shattered Lash,Splinter Storm,Spectrorage,Mass Vitrify
+Gara Prime,225,360,300,1.15,190,Shattered Lash,Splinter Storm,Spectrorage,Mass Vitrify
+Garuda,270,300,300,1,300,Dread Mirror,Blood Altar,Bloodletting,Seeking Talons
+Garuda Prime,360,300,300,1,400,Dread Mirror,Blood Altar,Bloodletting,Seeking Talons
+Gauss,225,300,450,1.4,175,Mach Rush,Kinetic Plating,Thermal Sunder,Redline
+Grendel,225,1050,75,0.95,350,Feast,Nourish,Regurgitate,Pulverize
+Harrow,150,300,450,1,175,Condemn,Penance,Thurible,Covenant
+Harrow Prime,188,300,600,1,175,Condemn,Penance,Thurible,Covenant
+Hildryn,0,225,1575,1,300,Balefire,Pillage,Haven,Aegis Storm
+Hydroid,188,300,375,1.05,225,Tempest Barrage,Tidal Surge,Undertow,Tentancle Swarm
+Hydroid Prime,225,300,525,1.05,275,Tempest Barrage,Tidal Surge,Undertow,Tentancle Swarm
+Inaros,150,2200,0,1,225,Desiccation,Devour,Sandstorm,Scarab Swarm
+Inaros Prime,188,2300,0,1.05,225,Desiccation,Devour,Sandstorm,Scarab Swarm
+Ivara,263,225,300,1.15,100,Quiver,Navigator,Prowl,Artemis Bow
+Ivara Prime,300,225,450,1.2,125,Quiver,Navigator,Prowl,Artemis Bow
+Khora,188,375,300,1.05,275,Whipclaw,Ensnare,Venari,Strangledome
+Lavos,0,600,300,1.15,675,Ophidian Bite,Vial Rush,Transmutation Probe,Catalyze
+Limbo,225,300,225,1.15,100,Banish,Stasis,Rift Surge,Cataclysm
+Limbo Prime,263,300,300,1.15,125,Banish,Stasis,Rift Surge,Cataclysm
+Loki,225,225,225,1.25,100,Decoy,Invisibility,Switch Teleport,Radial Disarm
+Loki Prime,263,225,225,1.25,125,Decoy,Invisibility,Switch Teleport,Radial Disarm
+Mag,188,225,450,1,100,Pull,Magnetize,Polarize,Crush
+Mag Prime,263,300,450,1,125,Pull,Magnetize,Polarize,Crush
+Mesa,150,375,225,1.1,100,Ballistic Battery,Shooting Gallery,Shatter Shield,Peacemaker
+Mesa Prime,188,405,225,1.1,125,Ballistic Battery,Shooting Gallery,Shatter Shield,Peacemaker
+Mirage,225,240,240,1.2,100,Hall of Mirrors,Sleight of Hand,Eclipse,Prism
+Mirage Prime,225,240,330,1.2,175,Hall of Mirrors,Sleight of Hand,Eclipse,Prism
+Nekros,150,300,270,1.1,100,Soul Punch,Terrify,Desecrate,Shadows of the Dead
+Nekros Prime,188,300,450,1.1,125,Soul Punch,Terrify,Desecrate,Shadows of the Dead
+Nezha,225,375,150,1.15,190,Fire Walker,Blazing Chakram,Warding Halo,Divine Spears
+Nezha Prime,225,375,150,1.2,250,Fire Walker,Blazing Chakram,Warding Halo,Divine Spears
+Nidus,150,450,0,1,450,Virulence,Larva,Parasitic Link,Ravenous
+Nidus Prime,188,525,0,1,525,Virulence,Larva,Parasitic Link,Ravenous
+Nova,225,300,225,1.2,100,Null Star,Antimatter Drop,Wormhole,Molecular Prime
+Nova Prime,263,300,300,1.2,125,Null Star,Antimatter Drop,Wormhole,Molecular Prime
+Nyx,225,300,300,1.1,100,Mind Control,Psychic Bolts,Chaos,Absorb
+Nyx Prime,225,300,375,1.13,125,Mind Control,Psychic Bolts,Chaos,Absorb
+Oberon,225,375,300,1,175,Smite,Hallowed Ground,Renewal,Reckoning
+Oberon Prime,263,375,300,1,225,Smite,Hallowed Ground,Renewal,Reckoning
+Octavia,225,300,225,1.05,150,Mallet,Resonator,Metronome,Amp
+Octavia Prime,263,300,300,1.05,150,Mallet,Resonator,Metronome,Amp
+Protea,225,300,450,1.2,125,Grenade Fan,Blaze Artillery,Dispensary,Temporal Anchor
+Revenant,188,300,675,1,125,Enthrall,Mesmer Skin,Reave,Danse Macabre
+Rhino,150,300,450,0.95,225,Rhino Charge,Iron Skin,Roar,Rhino Stomp
+Rhino Prime,150,300,450,1,275,Rhino Charge,Iron Skin,Roar,Rhino Stomp
+Saryn,225,375,300,0.95,225,Spores,Molt,Toxic Lash,Miasma
+Saryn Prime,300,375,300,1,300,Spores,Molt,Toxic Lash,Miasma
+Sevagoth,188,300,270,0.95,150,Reap,Sow,Gloom,Exalted Shadow
+Titania,225,300,300,1,100,Spellbind,Tribute,Lantern,Razorwing
+Titania Prime,263,375,300,1,125,Spellbind,Tribute,Lantern,Razorwing
+Trinity,225,300,300,1,100,Well of Life,Energy Vampire,Link,Blessing
+Trinity Prime,225,300,450,1.1,125,Well of Life,Energy Vampire,Link,Blessing
+Valkyr,150,300,150,1.1,600,Rip Line,Warcry,Paralysis,Hysteria
+Valkyr Prime,225,300,150,1.1,700,Rip Line,Warcry,Paralysis,Hysteria
+Vauban,225,300,225,1,150,Tesla Nervos,Minelayer,Photon Strike,Bastille
+Vauban Prime,225,300,300,1,200,Tesla Nervos,Minelayer,Photon Strike,Bastille
+Volt,150,300,450,1,100,Shock,Speed,Electric Shield,Discharge
+Volt Prime,300,300,450,1,125,Shock,Speed,Electric Shield,Discharge
+Wisp,300,300,225,1.2,175,Reservoirs,Wil-O-Wisp,Breach Surge,Sol Gate
+Wukong,180,450,300,1,250,Celestial Twin,Cloud Walker,Defy,Primal Fury
+Wukong Prime,195,450,360,1.05,275,Celestial Twin,Cloud Walker,Defy,Primal Fury
+Xaku,230,291,267,1.02,137,Xatas Whisper,Grasp of Lohk,The Lost,The Vast Untime
+Yareli,300,300,450,1,100,Sea Snares,Merulina,Aquablades,Riptide
+Zephyr,150,450,450,1.15,100,Tail Wind,Airburst,Turbulence,Tornado
+Zephyr Prime,225,450,450,1.2,125,Tail Wind,Airburst,Turbulence,Tornado

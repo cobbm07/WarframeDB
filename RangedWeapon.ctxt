@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RangedWeapon
+comment1.params=n\ s\ t\ bDmg\ tD\ cC\ cM\ bDps\ sD\ sC\ ts\ a\ m\ mA\ fR\ rS\ tier
+comment1.target=RangedWeapon(java.lang.String,\ Slot,\ Type,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ java.lang.String[],\ Ammo,\ int,\ int,\ double,\ double,\ Tier)
+comment2.params=n
+comment2.target=RangedWeapon(java.lang.String)
+numComments=3

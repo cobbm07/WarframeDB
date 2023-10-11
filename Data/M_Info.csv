@@ -1,0 +1,190 @@
+Name,Slot,Type,BaseDamage,TotalDamage,CritChance,CritMultiplier,StatusChance,FireRate,MeleeRange,Tier
+Arca Titron,Melee,Hammer,360,360,0.24,2,0.38,0.733,2.6,A
+Balla,Melee,Zaw Dagger / Staff,224,224,0.18,2,0.18,1,1,A
+Broken War,Melee,Sword,187,187,0.35,2.2,0.2,1,2.5,A
+Ceti Lacera,Melee,Blade and Whip,216,216,0.2,2,0.4,1.08,2.5,A
+Cyath,Melee,Zaw Machete / Polearm,230,230,0.18,2,0.18,0.92,1,A
+Dakra Prime,Melee,Sword,170,170,0.36,2.4,0.18,1,2.5,A
+Destreza Prime,Melee,Rapier,170,170,0.32,3,0.2,0.917,2.5,A
+Dokrahm,Melee,Zaw Scythe / Heavy Blade,309,309,0.18,2,0.18,1,1,A
+Dragon Nikana,Melee,Nikana,188,188,0.22,2,0.22,1,2.5,A
+Dual Kamas Prime,Melee,Dual Swords,160,160,0.2,2,0.25,1.17,2.4,A
+Dual Keres,Melee,Dual Swords,115,115,0.28,2.6,0.14,1.25,2.5,A
+Fragor Prime,Melee,Hammer,270,270,0.4,2.5,0.18,0.8,2.6,A
+Galatine Prime,Melee,Heavy Blade,280,280,0.26,2,0.26,1,3,A
+Hate,Melee,Scythe,230,230,0.3,2.5,0.2,0.917,2.8,A
+Hirudo,Melee,Sparring,130,130,0.3,3,0.11,1,1.25,A
+Jat Kusar,Melee,Blade and Whip,218,218,0.35,2.5,0.19,0.833,2.4,A
+Karyst Prime,Melee,Dagger,344,344,0.24,2.2,0.3,0.667,2.2,A
+Keratinos,Melee,Claws,244,244,0.13,2.1,0.29,0.917,1.7,A
+Kuva Shildeg,Melee,Hammer,205,328,0.31,2.7,0.27,0.917,3,A
+Ninkondi Prime,Melee,Nunchaku,234,234,0.22,2.4,0.36,1,2.31,A
+Ohma,Melee,Tonfa,224,224,0.15,2,0.3,0.917,2.5,A
+Pangolin Prime,Melee,Sword,248,248,0.26,2.2,0.3,0.917,2.5,A
+Pennant,Melee,Two-Handed Nikana,200,200,0.32,2.4,0.1,0.917,3,A
+Plague Keewar,Melee,Zaw Scythe / Staff,306,306,0.18,2,0.22,0.88,1,A
+Prisma Dual Cleavers,Melee,Dual Swords,133,133,0.25,3,0.25,1,1.7,A
+Quassus,Melee,Warfan,230,230,0.3,2,0.12,0.833,1.7,A
+Rakta Dark Dagger,Melee,Dagger,246,246,0.12,1.8,0.3,1,1.75,A
+Sigma & Octantis,Melee,Sword and Shield,174,174,0.28,2.2,0.16,1.08,2.5,A
+Silva & Aegis Prime,Melee,Sword and Shield,318,318,0.25,2,0.3,0.75,2.5,A
+Skiajati,Melee,Nikana,175,175,0.19,2.1,0.3,1.17,2.7,A
+Tatsu,Melee,Two-Handed Nikana,214,214,0.16,2,0.28,1,3,A
+Tekko Prime,Melee,Fist,180,180,0.3,2.4,0.26,1,1.35,A
+Telos Boltace,Melee,Tonfa,210,210,0.2,2,0.35,1.08,2.5,A
+Tenet Agendus,Melee,Sword and Shield,260,416,0.24,2,0.28,0.917,2.6,A
+Tenet Exec,Melee,Heavy Blade,190,304,0.38,2.4,0.22,1,2.8,A
+Tenet Livia,Melee,Two-Handed Nikana,198,316.8,0.28,2.2,0.28,1.08,2.5,A
+Tipedo Prime,Melee,Staff,170,170,0.24,2.4,0.24,1.17,3,A
+Twin Krohkur,Melee,Dual Swords,250,250,0.19,1.7,0.33,0.917,2.5,A
+Vastilok,Melee,Gunblade,279,279,0.19,1.7,0.31,1,1,A
+Venato,Melee,Scythe,220,220,0.27,2.1,0.24,1.08,2.7,A
+Vitrica,Melee,Heavy Blade,333,333,0.23,2.3,0.33,0.833,2.9,A
+Volnus Prime,Melee,Hammer,250,250,0.2,1.8,0.34,1.2,2.9,A
+War,Melee,Heavy Blade,250,250,0.26,2.6,0.26,0.917,3.2,A
+Xoris,Melee,Glaive,120,120,0.2,2.4,0.18,1.17,1.3,A
+Ack & Brunt,Melee,Sword and Shield,149,149,0.2,2,0.1,0.833,2.5,B
+Ankyros Prime,Melee,Fist,128,128,0.28,2.4,0.16,1.25,1.25,B
+Arum Spinosa,Melee,Warfan,297,297,0.09,1.9,0.37,1.08,1.7,B
+Atterax,Melee,Whip,129,129,0.25,3,0.2,0.917,2.5,B
+Bo Prime,Melee,Staff,176,176,0.24,2.6,0.32,1.08,3,B
+Cadus,Melee,Staff,130,130,0.15,2,0.25,1,2.8,B
+Cassowar,Melee,Polearm,188,188,0.06,1.4,0.28,1.17,3,B
+Caustacyst,Melee,Scythe,260,260,0.09,2,0.37,1,2.9,B
+Cerata,Melee,Glaive,183,183,0.15,2,0.3,1,1.25,B
+Cobra & Crane,Melee,Sword and Shield,296,296,0.15,1.5,0.36,0.917,2.6,B
+Dark Split-Sword,Melee,Heavy Blade,230,230,0.15,2,0.25,0.917,2.8,B
+Dehtat,Melee,Zaw Rapier / Polearm,224,224,0.18,2,0.18,0.92,1,B
+Dex Dakra,Melee,Dual Swords,142,142,0.16,2,0.24,0.883,2.5,B
+Dual Ether,Melee,Dual Swords,180,180,0.2,2,0.28,1,2.5,B
+Dual Ichor,Melee,Dual Swords,122,122,0.25,3,0.15,1.08,2.3,B
+Falcor,Melee,Glaive,230,230,0.12,1.6,0.34,0.833,1.3,B
+Fang Prime,Melee,Dual Daggers,178,178,0.26,2.6,0.26,1,1.75,B
+Galatine,Melee,Heavy Blade,182,182,0.1,2,0.2,1,3,B
+Guandao,Melee,Polearm,202,202,0.28,2.2,0.04,0.833,3,B
+Gunsen,Melee,Warfan,160,160,0.16,2,0.28,1.17,1.7,B
+Halikar Wraith,Melee,Glaive,225,225,0.19,2.3,0.35,1.17,1.2,B
+Jat Kittag,Melee,Hammer,200,200,0.15,2,0.25,1,2.8,B
+Kogake Prime,Melee,Sparring,242,242,0.16,1.8,0.38,0.917,1.25,B
+Korrudo,Melee,Sparring,193,193,0.31,2.5,0.09,0.833,1.25,B
+Krohkur,Melee,Sword,217,217,0.29,2.3,0.19,0.833,2.5,B
+Kronen,Melee,Tonfa,130,130,0.1,1.5,0.2,1.08,2.5,B
+Kronsh,Melee,Zaw Machete / Polearm,234,234,0.18,2,0.18,0.85,1,B
+Lacera,Melee,Blade and Whip,216,216,0.05,2,0.45,0.917,2.5,B
+Machete Wraith,Melee,Machete,211,211,0.19,2.1,0.33,1.08,2.5,B
+Mewan,Melee,Zaw Sword / Polearm,224,224,0.18,2,0.18,0.85,1,B
+Mios,Melee,Blade and Whip,177,177,0.19,2,0.25,1.08,2.5,B
+Mire,Melee,Sword,158,158,0.09,1.5,0.31,1.08,2.7,B
+Nikana,Melee,Nikana,142,142,0.16,2,0.16,0.917,2.5,B
+Ooltha,Melee,Zaw Sword / Staff,224,224,0.18,2,0.18,0.92,1,B
+Orvius,Melee,Glaive,195,195,0.18,2,0.18,0.75,1.3,B
+Pathocyst,Melee,Glaive,262,262,0.15,2.1,0.3,0.667,1.3,B
+Prisma Machete,Melee,Machete,193,193,0.15,1.9,0.31,0.917,2.5,B
+Prisma Obex,Melee,Sparring,150,150,0.25,2,0.3,1.33,1.25,B
+Prisma Skana,Melee,Sword,170,170,0.28,2.2,0.16,1,2.5,B
+Pulmonars,Melee,Nunchaku,290,290,0.19,2.3,0.33,0.917,2.51,B
+Rabvee,Melee,Zaw Machete / Hammer,234,234,0.18,2,0.18,0.85,1,B
+Redeemer,Melee,Gunblade,180,180,0.1,1.8,0.22,0.833,2,B
+Sancti Magistar,Melee,Hammer,240,240,0.3,2,0.2,1,2.6,B
+Sarpa,Melee,Gunblade,160,160,0.14,2,0.28,1,2,B
+Scindo Prime,Melee,Heavy Blade,250,250,0.26,2.4,0.24,0.967,2.7,B
+Scoliac,Melee,Whip,150,150,0.13,1.5,0.29,1.25,2.5,B
+Secura Lecta,Melee,Whip,176,176,0.15,1.5,0.3,1.25,2.5,B
+Skana Prime,Melee,Sword,210,210,0.26,2.6,0.26,1,2.5,B
+Synoid Heliocor,Melee,Hammer,280,280,0.16,2,0.4,1.08,2.5,B
+Twin Basolk,Melee,Dual Swords,210,210,0.05,2,0.4,1,2.4,B
+Vaykor Sydon,Melee,Polearm,213,213,0.21,2.5,0.33,1.08,2.9,B
+Volnus,Melee,Hammer,220,220,0.18,1.6,0.3,1.2,2.9,B
+Wolf Sledge,Melee,Hammer,259,259,0.17,1.9,0.33,1,3.1,B
+Zenistar,Melee,Heavy Blade,298,298,0.1,2,0.3,0.833,2.6,B
+Amphis,Melee,Staff,130,130,0.13,1.7,0.21,1.25,3,C
+Anku,Melee,Scythe,170,170,0.2,2,0.1,1.08,2.8,C
+Boltace,Melee,Tonfa,176,176,0.06,1.5,0.28,0.917,2.5,C
+Broken Scepter,Melee,Staff,179,179,0.1,2,0.3,1.25,2.9,C
+Dark Dagger,Melee,Dagger,154,154,0.08,1.5,0.22,0.917,1.75,C
+Dark Sword,Melee,Sword,260,260,0.05,1.5,0.4,0.833,2.5,C
+Destreza,Melee,Rapier,158,158,0.28,2,0.14,1,2.5,C
+Dual Cleavers,Melee,Dual Swords,157,157,0.25,3,0.1,0.833,1.7,C
+Dual Heat Swords,Melee,Dual Swords,147,147,0.05,1.5,0.2,0.917,2.5,C
+Dual Kamas,Melee,Dual Swords,96,96,0.1,1.5,0.15,1.17,2.4,C
+Dual Raza,Melee,Dual Swords,110,110,0.25,3,0.1,0.917,2.4,C
+Dual Skana,Melee,Dual Swords,120,120,0.05,1.5,0.16,0.833,2.5,C
+Dual Zoren,Melee,Dual Swords,70,70,0.25,3,0.05,1.17,2.3,C
+Endura,Melee,Rapier,200,200,0.1,2,0.36,0.917,2.5,C
+Ether Daggers,Melee,Dual Daggers,224,224,0.1,1.8,0.3,0.833,1.75,C
+Ether Reaper,Melee,Scythe,180,180,0.2,2,0.2,1.08,2.7,C
+Ether Sword,Melee,Sword,192,192,0.1,1.5,0.34,1,2.5,C
+Furax Wraith,Melee,Fist,139,139,0.3,2.7,0.15,1.08,1.25,C
+Galvacord,Melee,Whip,210,210,0.12,1.8,0.3,0.75,2.7,C
+Gazal Machete,Melee,Machete,178,178,0.1,2,0.3,1,2.6,C
+Ghoulsaw,Melee,Assault Saw,197,197,0.15,1.9,0.27,1,2.15,C
+Glaive,Melee,Glaive,105,105,0.12,2,0.12,1,1.25,C
+Gram,Melee,Heavy Blade,160,160,0.15,2,0.15,0.95,2.8,C
+Halikar,Melee,Glaive,149,149,0.17,2,0.29,1.17,1.2,C
+Heat Sword,Melee,Sword,147,147,0.05,1.5,0.2,0.917,2.5,C
+Heliocor,Melee,Hammer,280,280,0.38,2,0.12,0.833,2.5,C
+Jaw Sword,Melee,Sword,120,120,0.08,1.5,0.16,0.917,2.5,C
+Karyst,Melee,Dagger,273,273,0.1,2,0.26,0.75,1.75,C
+Kesheg,Melee,Polearm,241,241,0.19,2.5,0.23,0.833,2.9,C
+Kreska,Melee,Machete,190,190,0.14,2,0.22,0.917,2.4,C
+Lecta,Melee,Whip,101,101,0.05,1.5,0.25,1,2.5,C
+Masseter,Melee,Heavy Blade,241,241,0.24,2,0.28,1,2.9,C
+Nami Skyla,Melee,Dual Swords,125,125,0.1,1.5,0.15,0.917,2.5,C
+Ninkondi,Melee,Nunchaku,190,190,0.1,2,0.35,1,2.31,C
+Okina,Melee,Dual Daggers,140,140,0.16,2,0.2,1.08,1.7,C
+Orthos,Melee,Polearm,185,185,0.06,1.5,0.18,0.917,3,C
+Pangolin Sword,Melee,Sword,150,150,0.08,1.5,0.22,0.917,2.5,C
+Plasma Sword,Melee,Sword,200,200,0.18,2,0.18,0.667,2.5,C
+Prova,Melee,Machete,128,128,0.14,2,0.16,1,2.5,C
+Prova Vandal,Melee,Machete,198,198,0.14,2,0.32,1,2.5,C
+Pupacyst,Melee,Polearm,284,284,0.13,1.5,0.27,0.833,2.7,C
+Ripkas,Melee,Claws,173,173,0.2,2,0.15,0.883,1.75,C
+Scindo,Melee,Heavy Blade,200,200,0.15,1.5,0.1,0.917,2.6,C
+Serro,Melee,Polearm,234,234,0.08,1.5,0.26,0.917,3,C
+Shaku,Melee,Nunchaku,180,180,0.18,2,0.34,1.17,2.21,C
+Sheev,Melee,Dagger,270,270,0.13,2.1,0.25,0.667,1.7,C
+Sibear,Melee,Hammer,270,270,0.15,2,0.3,1,2.6,C
+Silva & Aegis,Melee,Sword and Shield,98,98,0.05,1.5,0.2,1,2.5,C
+Skana,Melee,Sword,120,120,0.05,1.5,0.16,0.833,2.5,C
+Sydon,Melee,Polearm,225,225,0.1,2,0.25,0.917,2.9,C
+Tekko,Melee,Fist,160,160,0.3,2,0.1,0.917,1.25,C
+Tipedo,Melee,Staff,124,124,0.2,2,0.2,1.33,3,C
+Tonbo,Melee,Polearm,184,184,0.05,2,0.25,1,3,C
+Venka,Melee,Claws,140,140,0.15,2,0.15,1,1.75,C
+Ankyros,Melee,Fist,90,90,0.2,2,0.1,1.17,1.25,D
+Bo,Melee,Staff,140,140,0.125,2,0.2,1,3,D
+Ceramic Dagger,Melee,Dagger,140,140,0.1,1.5,0.2,1,1.8,D
+Cronus,Melee,Sword,106,106,0.06,1.5,0.18,0.917,2.5,D
+Fang,Melee,Dual Daggers,108,108,0.08,1.5,0.16,0.917,1.65,D
+Fragor,Melee,Hammer,200,200,0.2,2,0.1,0.833,2.5,D
+Furax,Melee,Fist,135,135,0.25,2.3,0.11,1,1.25,D
+Heat Dagger,Melee,Dagger,208,208,0.14,1.6,0.14,0.75,1.75,D
+Kama,Melee,Machete,90,90,0.12,1.8,0.1,1.17,2.4,D
+Kestrel,Melee,Glaive,84,84,0.1,2,0.1,1.08,1.2,D
+Kogake,Melee,Sparring,120,120,0.2,2,0.1,0.917,1.25,D
+Machete,Melee,Machete,120,120,0.1,1.5,0.15,0.917,2.5,D
+Magistar,Melee,Hammer,210,210,0.2,2,0.1,0.833,2.5,D
+MK1-Bo,Melee,Staff,90,90,0.1,2,0.1,1,3,D
+MK1-Furax,Melee,Fist,90,90,0.2,2,0.1,1,1.25,D
+Obex,Melee,Sparring,120,120,0.25,2,0.1,1,1.25,D
+Glaive Prime,Melee,Glaive,164,164,0.22,2,0.3,1.25,1.25,S
+Gram Prime,Melee,Heavy Blade,300,300,0.32,2.6,0.32,0.8,2.9,S
+Guandao Prime,Melee,Polearm,240,240,0.32,2.4,0.2,1,3,S
+Kronen Prime,Melee,Tonfa,212,212,0.22,2,0.34,1.17,2.5,S
+Lesion,Melee,Polearm,237,237,0.15,2,0.37,1,2.7,S
+Nami Skyla Prime,Melee,Dual Swords,180,180,0.22,2,0.34,1.33,2.5,S
+Nikana Prime,Melee,Nikana,198,198,0.28,2.4,0.28,1.08,2.5,S
+Orthos Prime,Melee,Polearm,234,234,0.24,2.2,0.36,1.17,3,S
+Paracesis,Melee,Heavy Blade,222,222,0.31,2.6,0.22,0.917,2.9,S
+Plague Kripath,Melee,Zaw Rapier / Polearm,213,213,0.22,2.2,0.18,0.95,1,S
+Reaper Prime,Melee,Scythe,200,200,0.35,2.5,0.25,1.08,2.8,S
+Redeemer Prime,Melee,Gunblade,212,212,0.24,2.2,0.3,0.917,2,S
+Sepfahn,Melee,Zaw Nikana / Staff,226,226,0.2,2,0.2,0.92,1,S
+Stropha,Melee,Gunblade,220,220,0.3,2.4,0.14,1,2,S
+Tenet Grigori,Melee,Scythe,228,364.8,0.24,1.6,0.38,1.08,2.5,S
+Venka Prime,Melee,Claws,188,188,0.32,2.6,0.24,1.05,1.8,S
+Korumm,Melee,Polearm,260,260,0.24,2.2,0.3,1,2.9,NA
+Nami Solo,Melee,Machete,172,172,0.15,2,0.25,1,2.5,C
+Nepheri,Melee,Dual Daggers,261,261,0.21,2.3,0.33,1,1.9,NA
+Rumblejack,Melee,Dagger,300,300,0.13,1.8,0.4,0.67,1.8,NA
+Verdilac,Melee,Whip,213,213,0.3,2.5,0.21,1,3,NA

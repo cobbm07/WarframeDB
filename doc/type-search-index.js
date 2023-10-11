@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Ammo"},{"p":"<Unnamed>","l":"Database"},{"p":"<Unnamed>","l":"DataReader"},{"p":"<Unnamed>","l":"MeleeWeapon"},{"p":"<Unnamed>","l":"RangedWeapon"},{"p":"<Unnamed>","l":"Slot"},{"p":"<Unnamed>","l":"Type"},{"p":"<Unnamed>","l":"Weapon"}]
